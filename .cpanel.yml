@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/public_html/techenrage/allerg
+    - export DEPLOYPATH=/home/totalcad/public_html/techenrage/allerg
     - /bin/cp -R * $DEPLOYPATH
